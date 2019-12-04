@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "ECharts 智能小程序示例",
+    "usingSwanComponents": {
+        "chart": "dynamicLib://echartsLib/chart"
+    }
+}

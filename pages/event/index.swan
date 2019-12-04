@@ -1,0 +1,7 @@
+<chart id="myChart" option="{{ option }}" style="width: 100%; height: 500px; display: block" action="{{ action }}"
+    bindclick="click" bindmousedown="mouseDown" bindmouseup="mouseUp"
+    bindlegendselectchanged="legendSelectChanged"
+    bindlegendunselected="legendUnselected">
+</chart>
+
+<button bindtap="dispatchAction">取消选中上海</button>

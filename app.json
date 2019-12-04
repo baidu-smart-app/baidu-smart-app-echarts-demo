@@ -1,0 +1,41 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/bar/index",
+        "pages/scatter/index",
+        "pages/pie/index",
+        "pages/line/index",
+        "pages/funnel/index",
+        "pages/gauge/index",
+        "pages/k/index",
+        "pages/radar/index",
+        "pages/heatmap/index",
+        "pages/tree/index",
+        "pages/treemap/index",
+        "pages/sunburst/index",
+        "pages/map/index",
+        "pages/graph/index",
+        "pages/boxplot/index",
+        "pages/parallel/index",
+        "pages/sankey/index",
+        "pages/themeRiver/index",
+        "pages/lazyLoad/index",
+        "pages/multiCharts/index",
+        "pages/resize/index",
+        "pages/event/index",
+        "pages/clear/index",
+        "pages/wordcloud/index",
+        "pages/liquidfill/index"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "智能小程序",
+        "backgroundTextStyle": "light"
+    },
+    "dynamicLib": {
+        "echartsLib": {
+            "provider": "echarts_4_4_0"
+        }
+    }
+}

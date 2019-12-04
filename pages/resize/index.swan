@@ -1,0 +1,4 @@
+<chart id="myChart" width="{{ width }}" height="{{ height }}" option="{{ option }}"
+  style="{{ width ? 'width:' + width + 'px;height:' + height + 'px' : ''}}"></chart>
+
+<button bindtap="changeSize">改变容器大小</button>

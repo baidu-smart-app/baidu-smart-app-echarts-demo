@@ -1,0 +1,8 @@
+<chart s-if="isChartShow" id="myChart" option="{{ option }}"
+  toClear="{{ toClear }}"
+  style="width: 100%; height: 400px; display: block">
+</chart>
+
+<button bindtap="clear">清除图表内容</button>
+
+<button bindtap="remove">移除图表</button>

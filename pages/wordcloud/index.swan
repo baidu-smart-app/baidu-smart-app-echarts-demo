@@ -1,0 +1,3 @@
+<chart id="myChart" option="{{ option }}" extensions="{{ extensions }}"
+    style="width: 100%; height: 500px; display: block">
+</chart>

@@ -1,0 +1,3 @@
+<chart id="myChart" option="{{ option }}" style="width: 100%; height: 500px; display: block" s-if="isShow"></chart>
+
+<button bindtap="showChart" s-if="!isShow">显示图表</button>

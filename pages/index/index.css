@@ -1,0 +1,53 @@
+/**
+ * @file index.css
+ * @author swan
+ */
+
+.btn {
+    margin: 10px;
+}
+
+.panel {
+    display: block;
+    margin-top: 10px;
+}
+
+    .panel .chart-with-img {
+        display: inline-block;
+        width: 25%;
+        margin: 0 4% 20px 4%;
+        text-align: center;
+    }
+
+    .chart-with-img image {
+        box-sizing: border-box;
+        width: 80px;
+        height: 80px;
+        padding: 15px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .chart-without-img {
+        display: block;
+        width: 92%;
+        margin: 10px 4%;
+        border: none;
+        border-radius: 0;
+    }
+
+    .chart-without-img button {
+        text-align: left;
+    }
+
+    .chart-without-img {
+        display: block;
+        width: 92%;
+        margin: 10px 4%;
+        border: none;
+        border-radius: 0;
+      }
+
+      .chart-without-img button {
+        text-align: left;
+      }
