@@ -24,6 +24,7 @@
         "pages/resize/index",
         "pages/event/index",
         "pages/clear/index",
+        "pages/formatter/index",
         "pages/wordcloud/index",
         "pages/liquidfill/index"
     ],
@@ -35,7 +36,7 @@
     },
     "dynamicLib": {
         "echartsLib": {
-            "provider": "echarts_4_4_0"
+            "provider": "echarts_4_7_0"
         }
     }
 }

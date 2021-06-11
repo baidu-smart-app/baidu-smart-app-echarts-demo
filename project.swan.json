@@ -1,1 +1,26 @@
-{"appid":"testappid","compilation-args":{"common":{"enhance":true}},"editor":{"curPath":"","expands":[],"markdownUploadTimeMap":{},"paths":[],"recentlyFiles":[]},"host":"baiduboxapp","setting":{"urlCheck":false},"swan":{"baiduboxapp":{"extensionJsVersion":"1.6.4","swanJsVersion":"3.110.11"}}}
+{
+    "appid": "testappid",
+    "compilation-args": {
+        "common": {
+            "enhance": true
+        }
+    },
+    "editor": {
+        "curPath": "",
+        "expands": [],
+        "markdownUploadTimeMap": {},
+        "paths": [],
+        "recentlyFiles": []
+    },
+    "host": "baiduboxapp",
+    "projectname": "swan-echarts-demo",
+    "setting": {
+        "urlCheck": false
+    },
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.150.255-rc",
+            "extensionJsVersion": "1.10.4"
+        }
+    }
+}
