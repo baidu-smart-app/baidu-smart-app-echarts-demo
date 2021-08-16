@@ -1,1 +1,2 @@
-<chart id="myChart" option="{{ option }}" style="width: 100%; height: 500px; display: block"></chart>
+<import-sjs src="./utils.sjs" module="utils"></import-sjs>
+<chart id="myChart" option="{{ utils.preprocessOption(option) }}" style="width: 100%; height: 500px; display: block"></chart>
